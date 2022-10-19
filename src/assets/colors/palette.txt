@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/001219-06283d-39a0ed-6bd425-ff731d */
+
+/* CSV */
+001219,06283d,39a0ed,6bd425,ff731d
+
+/* With # */
+#001219, #06283d, #39a0ed, #6bd425, #ff731d
+
+/* Array */
+["001219","06283d","39a0ed","6bd425","ff731d"]
+
+/* Object */
+{"Rich Black FOGRA 29":"001219","Prussian Blue":"06283d","Carolina Blue":"39a0ed","Lime Green":"6bd425","Pumpkin":"ff731d"}
+
+/* Extended Array */
+[{"name":"Rich Black FOGRA 29","hex":"001219","rgb":[0,18,25],"cmyk":[100,28,0,90],"hsb":[197,100,10],"hsl":[197,100,5],"lab":[5,-4,-6]},{"name":"Prussian Blue","hex":"06283d","rgb":[6,40,61],"cmyk":[90,34,0,76],"hsb":[203,90,24],"hsl":[203,82,13],"lab":[15,-3,-17]},{"name":"Carolina Blue","hex":"39a0ed","rgb":[57,160,237],"cmyk":[76,32,0,7],"hsb":[206,76,93],"hsl":[206,83,58],"lab":[63,-4,-47]},{"name":"Lime Green","hex":"6bd425","rgb":[107,212,37],"cmyk":[50,0,83,17],"hsb":[96,83,83],"hsl":[96,70,49],"lab":[76,-58,69]},{"name":"Pumpkin","hex":"ff731d","rgb":[255,115,29],"cmyk":[0,55,89,0],"hsb":[23,89,100],"hsl":[23,100,56],"lab":[65,49,67]}]
+
+/* XML */
+<palette>
+  <color name="Rich Black FOGRA 29" hex="001219" r="0" g="18" b="25" />
+  <color name="Prussian Blue" hex="06283d" r="6" g="40" b="61" />
+  <color name="Carolina Blue" hex="39a0ed" r="57" g="160" b="237" />
+  <color name="Lime Green" hex="6bd425" r="107" g="212" b="37" />
+  <color name="Pumpkin" hex="ff731d" r="255" g="115" b="29" />
+</palette>
