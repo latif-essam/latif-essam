@@ -9,6 +9,7 @@ const Contact = ({}: ContactProps) => {
   return (
     <>
       <div>Contact</div>
+
       <Loader type="pacman" active={true} />
     </>
   )
