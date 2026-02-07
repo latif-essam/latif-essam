@@ -1,38 +1,48 @@
-# Hi there 👋 I'm Latif
+# Hi there 👋 I'm Latif Essam
 
 <img align="right" width="128" src="https://github.com/latif-essam/latif-essam/blob/main/assets/profile.png" alt="Latif Essam" />
 
-**Frontend Engineer — React / React Native / TypeScript**  
-Passionate about turning ideas into polished, maintainable web & mobile apps using Atomic Design and solid engineering principles.
+**Frontend Engineer — React · React Native · TypeScript**  
+Building durable, maintainable web & mobile experiences through Atomic Design, clean architecture, and pragmatic engineering.
 
 ---
 
 ### 🔭 Current
-- Building reusable, complex UI components and systems for React & Next.js apps.
-- Freelance Frontend Engineer (Next.js) — multi-tenant SaaS for school management.
+- Building reusable component libraries and systems for React / Next.js apps.  
+- Freelance Frontend Engineer — multi-tenant SaaS for school management.
 
-### 👨‍💻 Core tech
-- **Frontend:** `React`, `React Native`, `TypeScript`, `Expo`, `Redux Toolkit`, `Next.js`  
-- **Styling & UI:** `HTML`, `CSS`, `Tailwind`, `Sass`, Atomic Design  
-- **Backend (familiar):** `Node.js`, `Express`, `PostgreSQL`, `JWT`, `Firebase`  
-- **Tools & practices:** Git, Jest, CI, SOLID / DRY / KISS, dependency injection
+### 🧭 Focus & philosophy
+Design systems that eliminate unnecessary work: single-source components, predictable contracts, and modular services that speed delivery, reduce bugs, and make long-term maintenance effortless.
 
-### 🧩 What I care about
-My approach to development is to transform complex business logic into seamless, creative solutions that not only meet but exceed client expectations.
+### 🏆 Selected highlights
+- Established an Atomic Design component library that significantly reduced UI duplication and sped up feature delivery.  
+- Delivered maps & navigation features (turn-by-turn UX) and secure in-app wallet flows for production mobile apps.  
+- Implemented RTL i18n and performance improvements across web & mobile products.
 
-I focus on:
-- Reusable component systems and maintainable codebases.
-- Clean architecture and a delightful developer experience.
-- Building fast, smooth mobile and web experiences optimized for real-world performance.
+### ⚙️ Core tech
 
-### 📫 Reach me
-- Email: `latif_essam@outlook.com`  
-- LinkedIn: [linkedin.com/in/latifessam](https://linkedin.com/in/latifessam)  
-- GitHub: [github.com/latif-essam](https://github.com/latif-essam)  
+**Frontend**  
+React • Next.js • TypeScript • Redux Toolkit • React Query • Atomic Design
 
-### 🎯 Open to
-Full-time / remote Frontend roles (React, React Native), contract work, and collaborations on design-driven products.
+**Mobile**  
+React Native • Expo • TypeScript • React Navigation • Native Modules • Secure Storage
+
+**Backend & infra (familiar)**  
+Node.js • Express • REST APIs • PostgreSQL • JWT
+
+**Tools & practices**  
+Git • Jest • ESLint • CI • SOLID / DRY / KISS • Component-driven development
 
 ---
 
-Thanks for reading — feel free to ping me about frontend architecture, React patterns, or component system design. 🙂
+### 📫 Reach
+- Email: latif_essam@outlook.com  
+- LinkedIn: [linkedin.com/in/latifessam](https://linkedin.com/in/latifessam)  
+- GitHub: [github.com/latif-essam](https://github.com/latif-essam)
+
+### 🎯 Open to
+Full-time / remote Frontend & React Native roles, contract work, and collaborations on design-driven products.
+
+---
+
+Join the journey — ping about frontend architecture, component systems, or collaboration. 🙂
