@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Latif Essam
 
-<img align="right" width="128" src="https://github.com/latif-essam/latif-essam/blob/main/assets/profile.png" alt="Latif Essam" />
+<img align="right" width="128" src="https://github.com/latif-essam/latif-essam/blob/main/50233674.png" alt="Latif Essam" />
 
 **Frontend Engineer — React · React Native · TypeScript**  
 Building durable, maintainable web & mobile experiences through Atomic Design, clean architecture, and pragmatic engineering.
